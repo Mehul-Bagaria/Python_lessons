@@ -6,3 +6,4 @@ List of examples -
 * 3_Largest index difference in a sequence
 * 4_Miscellaneous_examples
 * 5_Palindrome
+* 6_Day_counter
