@@ -5,3 +5,4 @@ List of examples -
 * 2_Arrays of asterisks
 * 3_Largest index difference in a sequence
 * 4_Miscellaneous_examples
+* 5_Palindrome
